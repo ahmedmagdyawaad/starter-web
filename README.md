@@ -9,4 +9,5 @@
 ## How to contribute 
 
 git.training added another section
-added another entry here from diff developer
+dded another entry here from diff developer
+added another line fo rebasing
