@@ -8,4 +8,4 @@
 
 ## How to contribute 
 
-git.training
+git.training added another section
