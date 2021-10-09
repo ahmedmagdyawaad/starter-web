@@ -9,3 +9,4 @@
 ## How to contribute 
 
 git.training added another section
+added another entry here from diff developer
